@@ -1,0 +1,55 @@
+Código Stark:Um Guia Prático para Construir o Futuro
+
+
+Roteiro: Código Stark (Episódio Piloto)
+Apresentador: Felipe Duração Estimada: 3-4 minutos
+
+[INTRODUÇÃO]
+E FALA AÍ, GALERA! BELEZA?
+
+Aqui quem fala é o Felipe, e sejam muito bem-vindos ao "Código Stark: Um Guia Prático para Construir o Futuro"!
+
+Se você caiu aqui de paraquedas, se prepara, porque hoje a gente vai mergulhar de cabeça num negócio que parece coisa de filme de ficção científica, mas tá aí, no seu celular, no seu e-mail, em todo lugar!
+
+Vamos falar de Machine Learning, a tal da "Inteligência Artificial", mas sem aqueles termos técnicos chatos que ninguém entende. A ideia aqui é te mostrar como VOCÊ pode ser o próximo Tony Stark e começar a construir suas próprias IAs.
+
+Então, sem mais enrolação, bora pra primeira curiosidade!
+
+[CURIOSIDADE 1]
+Você provavelmente já usou Machine Learning hoje e nem percebeu.
+
+Sabe o filtro de SPAM do seu e-mail? Aquela mágica que pega o "Parabéns, você ganhou 1 milhão!" e joga direto na lixeira?
+
+Isso é Machine Learning puro!
+
+Antigamente, alguém tinha que sentar e escrever uma regra: "Se o e-mail tiver a palavra 'dinheiro fácil', é spam". Mas aí os golpistas mudavam para "dinheir0 fáci1" e o filtro não pegava mais. Era um sistema burro.
+
+Hoje, o sistema é inteligente. Ele não segue regras fixas; ele aprende.
+
+Os engenheiros mostraram milhões de e-mails "bons" e milhões de e-mails "lixo" para o computador. A máquina, sozinha, começou a encontrar padrões que nem os humanos tinham visto. Ela aprendeu que certas frases, certos tipos de link, ou até mesmo e-mails enviados às 3 da manhã, têm mais chance de ser lixo.
+
+Ela não foi programada para saber o que é spam. Ela aprendeu o que é spam. Esse é o poder do Machine Learning: aprender com dados, e não com regras.
+
+[CURIOSIDADE 2]
+Beleza, Felipe, entendi. Mas por onde eu começo a construir meu próprio J.A.R.V.I.S.?
+
+Se você quer entrar nesse mundo, você vai usar a linguagem Python. E dentro do Python, existe uma ferramenta que é simplesmente o "canivete suíço" do Machine Learning para quem tá começando.
+
+O nome dela é Scikit-learn (lê-se Saikiti-Lern).
+
+Pensa no Scikit-learn como uma caixa de ferramentas gigante. Em vez de você ter que construir um motor do zero, o Scikit-learn já te dá o motor pronto, os parafusos e o manual de instruções.
+
+Quer fazer uma previsão de preço? Ele tem a ferramenta. Quer classificar se uma foto é de um gato ou de um cachorro? Ele tem a ferramenta.
+
+Para quem tá começando, é a melhor coisa que existe, porque ela simplifica toda aquela matemática complicada em comandos super fáceis de usar. Com duas ou três linhas de código, você já tem um modelo de Machine Learning funcionando. É sensacional.
+
+[FINALIZAÇÃO]
+E por hoje é só!
+
+O mundo da Inteligência Artificial é gigante, mas como você viu, ele é feito de pequenos passos. Comece entendendo o básico, como o filtro de spam, e descubra as ferramentas, como o Scikit-learn.
+
+Não precisa ser um gênio bilionário pra começar; só precisa ter a curiosidade de um.
+
+Espero que tenham curtido essa primeira dose de tecnologia.
+
+Eu sou Felipe e esse foi o Código Stark dessa semana!
