@@ -16,10 +16,6 @@ A Arte da Capa: A imagem do "Homem de Ferro" em estilo isométrico segurando um 
 "O Filtro de Spam e o Canivete Suíço do Python"
 Neste episódio, o apresentador (gerado por IA) "Felipe" explica o que é Machine Learning usando exemplos práticos do dia a dia, como o filtro de spam do seu e-mail, e apresenta a biblioteca Scikit-learn como a ferramenta essencial para quem está começando em Python.
 
-Arte da Capa:
-
-![Capa do Podcast 'Código Stark' gerada por IA] (Arte em Assets/homem_de_ferro_podcast.png)
-
 Ouça o resultado:
 
 Áudio Editado: Output/podcast_editado.mp3
